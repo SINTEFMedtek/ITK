@@ -97,8 +97,6 @@
 #  else
 #   define VCL_GCC_90
 #  endif
-# else
-#  error "Dunno about this gcc"
 # endif
 #endif
 
